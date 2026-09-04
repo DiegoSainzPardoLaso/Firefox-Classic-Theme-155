@@ -7,3 +7,8 @@ Then in a new tab write **about:support**.
 Open the profile folder and paste the chrome folder inside it.
 
 Enjoy.
+
+
+## Screenshots
+
+ ![](Media/VertexJitter.gif)  

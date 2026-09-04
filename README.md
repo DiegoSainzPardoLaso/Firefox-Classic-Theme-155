@@ -18,6 +18,6 @@ For a better experience:
 |:---------------------------------------------------:|:--------------------------------------------------:
 | ![New_Page_With_the_old_History_Menu](Media/01.png) | ![Functional Split tabs](Media/02.png)            |
 
-| Surfing the Web as if it was 2011                   | Surfing the Web as if it was 2011                 |
+| Surf the Web as if it was 2011                      | As it should be                                   |
 |:---------------------------------------------------:|:--------------------------------------------------:  
 | ![2011 Web](Media/03.png)                           | ![2011 Web](Media/04.png)                         |

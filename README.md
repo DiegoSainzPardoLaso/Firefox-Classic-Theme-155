@@ -15,4 +15,4 @@ For a better experience:
 
 ## Screenshots
 
- ![](Media/VertexJitter.gif)  
+ ![](Media/01.png)  

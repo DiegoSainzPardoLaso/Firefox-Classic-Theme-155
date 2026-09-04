@@ -17,3 +17,6 @@ For a better experience:
 | New Page with and Old History Menu                  | Working Split Tabs                                                                               |
 |:---------------------------------------------------:|:------------------------------------------------------------------------------------------------:|
 | ![New_Page_With_the_old_History_Menu](Media/01.png) | ![Functional Split tabs](Media/02.png)                                                           | 
+| Surfing the Web as if it was 2011                   |  
+|:---------------------------------------------------:| 
+| ![New_Page_With_the_old_History_Menu](Media/03.png) | 

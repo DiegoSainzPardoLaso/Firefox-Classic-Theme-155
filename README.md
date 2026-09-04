@@ -14,9 +14,9 @@ For a better experience:
  - Set bookmarks toolbar to **"Always Show"**.
 
 ## Screenshots
-| New Page with and Old History Menu                  | Working Split Tabs                                                                               |
-|:---------------------------------------------------:|:------------------------------------------------------------------------------------------------:|
-| ![New_Page_With_the_old_History_Menu](Media/01.png) | ![Functional Split tabs](Media/02.png)                                                           | 
-| Surfing the Web as if it was 2011                   |  
-|:---------------------------------------------------:| 
-| ![New_Page_With_the_old_History_Menu](Media/03.png) | 
+| New Page with and Old History Menu                  | Working Split Tabs                                |
+|:---------------------------------------------------:|:--------------------------------------------------:
+| ![New_Page_With_the_old_History_Menu](Media/01.png) | ![Functional Split tabs](Media/02.png)            | 
+| Surfing the Web as if it was 2011                   | Surfing the Web as if it was 2011                 |
+|:---------------------------------------------------:|:--------------------------------------------------:  
+| ![2011 Web](Media/03.png)                           | ![2011 Web](Media/04.png)                         |

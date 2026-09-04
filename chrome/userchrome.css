@@ -1,4 +1,4 @@
-﻿@import url("custom_base.css");
+@import url("custom_base.css");
 
 @import url("custom_main.css");
 @import url("custom_misc.css");
@@ -15,9 +15,4 @@
 @import url("custom_tooltip.css");
 @import url("custom_history.css");
 
-
-
-
-
-
-
+@import url("custom_splittabs.css");

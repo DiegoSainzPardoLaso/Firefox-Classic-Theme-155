@@ -15,4 +15,5 @@ For a better experience:
 
 ## Screenshots
 
- ![](Media/01.png)  
+ ![](Media/01.png)   ![](Media/02.png)  
+

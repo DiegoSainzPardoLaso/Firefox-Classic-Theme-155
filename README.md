@@ -17,3 +17,6 @@ For a better experience:
 
  ![](Media/01.png)   ![](Media/02.png)  
 
+| Vertex Jitter                                       | Vertex Colors                                                                                    |
+|:---------------------------------------------------:|:------------------------------------------------------------------------------------------------:|
+| ![Vertex Jitter](Media/01.png)            | ![Vertex Colors Toggle](Media/02.png)                                                  | 

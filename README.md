@@ -8,6 +8,8 @@ Open the profile folder and paste the chrome folder inside it.
 
 Enjoy.
 
+## Notes
+For a better experience right click on the title bar, and enable the **Menu bar** option.
 
 ## Screenshots
 

@@ -14,6 +14,6 @@ For a better experience:
  - Set bookmarks toolbar to **"Always Show"**.
 
 ## Screenshots
-| Vertex Jitter                                       | Vertex Colors                                                                                    |
+| New Page with and Old History Menu                  | Working Split Tabs                                                                               |
 |:---------------------------------------------------:|:------------------------------------------------------------------------------------------------:|
-| ![New Page With the old History Menu](Media/01.png)            | ![Functional Split tabs](Media/02.png)                                                  | 
+| ![New_Page_With_the_old_History_Menu](Media/01.png) | ![Functional Split tabs](Media/02.png)                                                           | 

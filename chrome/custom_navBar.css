@@ -79,6 +79,7 @@
 /** TOOLBAR BUTTONS **/
 #nav-bar .toolbarbutton-1:not(#back-button, #forward-button, #zoom-out-button, #PanelUI-menu-button, #zoom-in-button, #reload-button.unified, #stop-button.unified, #go-button.unified, #edit-controls > *, #appmenu-button),
 #nav-bar .toolbaritem-combined-buttons:not(.unified-extensions-item) {
+	margin-top: 6px !important;
   padding: 0 !important;
 }
 
@@ -261,6 +262,7 @@ toolbar:not(#nav-bar, #TabsToolbar) .toolbarbutton-1 > .toolbarbutton-icon {
   margin-inline-end: 0 !important;
   height: 1.5em !important;
   opacity: 1 !important;
+  
 }
 
 /* UNIFIED BACK & FORWARD BUTTONS */
@@ -276,6 +278,7 @@ toolbar:not(#nav-bar, #TabsToolbar) .toolbarbutton-1 > .toolbarbutton-icon {
   position: relative !important;
   z-index: 999 !important;
   margin-inline-start: 4px !important;
+  margin-top: 6px !important;
 }
 
 #main-window #back-button:not([disabled=true], [open], :active):hover {
@@ -305,6 +308,7 @@ toolbar:not(#nav-bar, #TabsToolbar) .toolbarbutton-1 > .toolbarbutton-icon {
   border-bottom-left-radius: 0px !important;
   border-left-style: none !important;
   background-image: linear-gradient(rgba(251, 252, 253, 0.97), rgba(246, 247, 248, 0.5) 49%, rgba(231, 232, 233, 0.45) 51%, rgba(225, 226, 229, 0.2)) !important;
+  margin-top: 6px !important;
 }
 
 #main-window #forward-button .toolbarbutton-icon {

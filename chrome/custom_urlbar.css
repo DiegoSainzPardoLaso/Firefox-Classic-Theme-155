@@ -43,8 +43,7 @@
 
 
 /* Megabar: disable breakout / expanding onto toolbar *********************************************/
-#urlbar  {
-	margin-top: -0.5px !important;
+#urlbar, #searchbar {
     border-bottom: 10px !important;
     border-radius: var(--url_custom_radius) !important;
     min-height:    var(--urlbar-height) !important;
@@ -124,7 +123,7 @@
 {
     &[breakout]
     {
-       
+        margin-top: 6px !important;
         
         display: block;
         position: absolute;
@@ -138,7 +137,7 @@
     &[breakout]
     {
         min-height: 0px !important;
-        margin-top: 6.5px !important;
+        margin-top: 1px !important;
     }
 }
 
@@ -147,11 +146,9 @@
     .urlbar[breakout][breakout-extend] 
     {
         
- 
-		
-		
         & > .urlbar-input-container
-        {             
+        {
+              
             font-size: 101% !important;
             box-shadow: inset 0px 1px 0px 0px rgba(0, 0, 0, 0.15);
             height: 19px !important;
@@ -171,15 +168,9 @@
  
 
 #urlbar-container, #search-container {
-	
   padding-block: 0 !important;
   margin-inline: 6px !important;
   
-}
-
-#search-container {
-	
-	 
 }
 
 #urlbar-container {

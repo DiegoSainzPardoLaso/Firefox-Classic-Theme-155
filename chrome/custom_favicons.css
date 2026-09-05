@@ -25,7 +25,7 @@
   list-style-image: url("images/customizeFavicon.ico") !important;
 }
 #main-window .tab-icon-image[src="chrome://global/skin/icons/settings.svg"] {
-  content: url("images/defaultFavicon.png") !important;
+  content: url("images/icons/settings.png") !important;
 }
 #main-window #identity-icon[style="list-style-image: url('chrome://global/skin/icons/settings.svg');"] {
   list-style-image: url("images/defaultFavicon.png") !important;

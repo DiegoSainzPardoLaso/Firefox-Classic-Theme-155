@@ -9,7 +9,7 @@
  */
 
 /* restore correct location bar colors, known from pre-Fx133 versions */
-
+ 
 :root 
 {
   --toolbar-field-background-color: #ffffff 													      !important;

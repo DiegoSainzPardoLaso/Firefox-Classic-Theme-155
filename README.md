@@ -4,7 +4,7 @@
 In a new tab, type **about:config** in the address bar and press Enter. Click the button accepting the risk. Search for **toolkit.legacyUserProfileCustomizations.stylesheets** and switch it's value from false to true.
 
 Then in a new tab write **about:support**. 
-Open the profile folder and paste the chrome folder inside it.
+Open the profile folder and paste the chrome folder and the User.js file inside it.
 
 Enjoy.
 

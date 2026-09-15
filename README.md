@@ -12,7 +12,7 @@ Enjoy.
 For a better experience:
  - Right click on the title bar, and enable the **Menu bar** option.
  - Set bookmarks toolbar to **"Always Show"**.
- - To fix the History panel go to Settings and search for **Show Sidebar** and disable it.
+ - To fix the History panel go to Settings, search for **Show Sidebar** and disable it.
 
 ## Screenshots
 | New Page with and Old History Menu                  | Working Split Tabs                                |

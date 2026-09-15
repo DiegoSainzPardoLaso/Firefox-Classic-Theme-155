@@ -2,6 +2,7 @@
 ## Installation
 
 In a new tab, type **about:config** in the address bar and press Enter. Click the button accepting the risk. Search for **toolkit.legacyUserProfileCustomizations.stylesheets** and switch it's value from false to true.
+
 (As a side note, this should now be done automatically by the User.js file, but if the theme doesn't work, it would probably have something
 to do with this)
 

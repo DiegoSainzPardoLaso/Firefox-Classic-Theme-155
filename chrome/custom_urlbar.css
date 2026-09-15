@@ -37,6 +37,21 @@
 
 
 
+#urlbar-container {
+  transform: translateY(0.5px) !important;
+}
+
+#urlbar[breakout] {
+  transform: translateY(1px) !important;
+}
+
+#searchbar-container {
+  transform: translateY(-1px) !important;
+}
+
+#searchbar[breakout] {
+  transform: translateY(-2px) !important;
+}
 
 
 
@@ -119,11 +134,18 @@
 
 
 /* This fixes the small search bar right next to the url bar */
+
+
+#search-container[breakout] {
+    margin-top: 6px !important;
+}
+
+
 .urlbar 
 {
     &[breakout]
     {
-        margin-top: 6px !important;
+        margin-top: 8px !important;
         
         display: block;
         position: absolute;
@@ -131,6 +153,13 @@
         height: var(--urlbar-height) !important;
     }    
 }
+
+.urlbar[breakout] {
+    position: static !important; 
+    margin-top: 0 !important;      
+    top: auto !important;         
+}
+
 
 .urlbar-container 
 {
@@ -146,16 +175,24 @@
     .urlbar[breakout][breakout-extend] 
     {
         
+		& > .urlbar-view
+		{
+			margin-top: 100px !important;
+		}
+
+		
         & > .urlbar-input-container
         {
               
             font-size: 101% !important;
             box-shadow: inset 0px 1px 0px 0px rgba(0, 0, 0, 0.15);
-            height: 19px !important;
+            height: 16px !important;
             margin-left: 1px !important;
             padding-bottom: 0px !important;
+			
         }
     }
+	
 }
 
 /* ********************************************************** */
@@ -612,8 +649,6 @@
     }
 
 }
-
-
 
 
 

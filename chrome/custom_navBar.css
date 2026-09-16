@@ -54,13 +54,14 @@
   border-radius: var(--navbar_top_border_roundness) var(--navbar_top_border_roundness) 0px 0px !important;
   /*background-color: transparent !important;*/
   background-image: linear-gradient(var(--toolbar-highlight-top) 15%, var(--toolbar-highlight-bottom)) !important;
-  height: 38px !important;
+  height: 32px !important;
   box-shadow: none !important;
   padding-right: 2px !important;
-  padding-bottom: 1px !important;
+  padding-bottom: 6px !important;
   padding-top: 4px !important;
   align-items: center !important;
   margin-top: var(--navbar_margin_top) !important;
+
 
 }
 :root:not([lwtheme-image]) #nav-bar, :root[echelon-style-4] #nav-bar {

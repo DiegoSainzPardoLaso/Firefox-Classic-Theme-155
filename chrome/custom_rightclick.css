@@ -1,12 +1,9 @@
-
 :root
 {
 	--right_click_menu_minimum_width:      190px !important;
 	--right_click_menu_background_color: #f2f2f2 !important;
 	--right_click_menu_hover_color:		 #90c8f6 !important;
 }
-
-
 
 
 
@@ -29,6 +26,7 @@
 	-moz-box-pack: start !important; /* can not be replaced with box-pack yet */
 	flex: unset !important;
 	justify-content: unset !important;
+	width: 200px !important;
 }
 
 /* fix for German locale */
@@ -81,6 +79,7 @@
 	{
 		padding-top: 2px !important;
 		padding-bottom: 2px !important;
+		
 	}
 
 	#context-navigation > .menuitem-iconic > .menu-iconic-left > .menu-iconic-icon {

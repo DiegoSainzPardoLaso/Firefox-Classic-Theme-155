@@ -43,6 +43,11 @@
 #PersonalToolbar 
 {
 	min-height: 26px !important;
+	
+	  :root[sessionrestored] &:not(.instant) {
+    transition: min-height 170ms ease-out, max-height 170ms ease-out, var(--ext-theme-background-transition);
+    padding-top: 2px !important;
+  }
 }
 
 
@@ -214,3 +219,4 @@ toolbarbutton.bookmark-item:not(.subviewbutton)
 	list-style-image: url("images/folder.svg") !important;
 	background-image: url("images/folder.svg");
 }
+ 

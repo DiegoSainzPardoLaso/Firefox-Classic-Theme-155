@@ -9,7 +9,7 @@
  */
 
 /* restore correct location bar colors, known from pre-Fx133 versions */
- 
+
 :root 
 {
   --toolbar-field-background-color: #ffffff 													      !important;
@@ -46,7 +46,7 @@
 }
 
 #searchbar-container {
-  transform: translateY(-1px) !important;
+  transform: translateY(-1px) !important;  
 }
 
 #searchbar[breakout] {
@@ -138,6 +138,7 @@
 
 #search-container[breakout] {
     margin-top: 6px !important;
+	
 }
 
 
@@ -174,13 +175,7 @@
 {
     .urlbar[breakout][breakout-extend] 
     {
-        
-		& > .urlbar-view
-		{
-			margin-top: 100px !important;
-		}
-
-		
+        		
         & > .urlbar-input-container
         {
               
